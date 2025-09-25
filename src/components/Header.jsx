@@ -10,7 +10,8 @@ import { useEffect, useState } from 'react'
 import { useAuth } from '../providers/AuthContext.jsx'
 //import { getAllTypes } from '../services/pokeService.js'
 //import { getAllTypes } from '../services/pokeService'
-import { getAllTypes } from '../services/pokeservice.js'
+//import { getAllTypes } from '../services/pokeService.js'
+import { getAllTypes } from '../services/pokeService.js' // fix
 
 
 
