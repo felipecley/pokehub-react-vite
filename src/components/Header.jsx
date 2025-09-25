@@ -8,7 +8,10 @@ import MenuItem from '@mui/material/MenuItem'
 import Button from '@mui/material/Button'
 import { useEffect, useState } from 'react'
 import { useAuth } from '../providers/AuthContext.jsx'
-import { getAllTypes } from '../services/pokeService.js'
+//import { getAllTypes } from '../services/pokeService.js'
+import { getAllTypes } from '../services/pokeService'
+
+
 
 export default function Header() {
   const [params, setParams] = useSearchParams()
