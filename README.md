@@ -13,7 +13,7 @@ Aplicação completa em React consumindo a **PokéAPI** com:
 ## Demo/Links
 - **Vercel**: pokehub-react-vite.vercel.app
 - **GitHub**: https://github.com/felipecley/pokehub-react-vite/tree/main
-- **CodeSandbox (público)**: https://codesandbox.io/p/github/felipecley/pokehub-react-vite/mai
+- **CodeSandbox (público)**: https://codesandbox.io/p/github/felipecley/pokehub-react-vite/main
 - **Vídeo**: _(adicione aqui)_
 
 ---
