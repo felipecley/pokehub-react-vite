@@ -11,10 +11,10 @@ Aplicação completa em React consumindo a **PokéAPI** com:
 - **Desafio Extra**: Autenticação (Firebase) + rota protegida (`/profile`)
 
 ## Demo/Links
-- **Vercel**: _(adicione aqui)_
-- **GitHub**: _(adicione aqui)_
-- **CodeSandbox (público)**: _(adicione aqui)_
-- **Vídeo (máx 10 min)**: _(adicione aqui)_
+- **Vercel**: pokehub-react-vite.vercel.app
+- **GitHub**: https://github.com/felipecley/pokehub-react-vite/tree/main
+- **CodeSandbox (público)**: https://codesandbox.io/p/github/felipecley/pokehub-react-vite/mai
+- **Vídeo**: _(adicione aqui)_
 
 ---
 
