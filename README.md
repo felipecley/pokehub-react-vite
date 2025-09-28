@@ -44,6 +44,13 @@ src/
   routes/
   services/
 ```
+## 👥 Integrantes
+- Felipe Cley 
+- André luiz Almeida faria
+- Gustavo Cardoso
+
+
+
 
 ## Licença
 MIT
